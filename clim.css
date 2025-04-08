@@ -1,0 +1,82 @@
+body{
+    background-color: rgb(134, 226, 195);
+}
+h1{
+    color: rgb(76, 134, 189);
+}
+p{
+    color: goldenrod;
+}
+.texto{
+    width: 100%;
+    background-color: rgb(114, 158, 224);
+    text-align: center;
+}
+
+img{
+    width: 70%;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+.foto{
+    width:40%;
+    display: inline-block;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+.myButton {
+	box-shadow: 3px 4px 18px 3px #899599;
+	background:linear-gradient(to bottom, #ffffff 5%, #37bf92 100%);
+	background-color:#ffffff;
+	border-radius:11px;
+	border:1px solid #609296;
+	display:inline-block;
+	cursor:pointer;
+	color:#2f848a;
+	font-family:Arial;
+	font-size:17px;
+	font-style:italic;
+	padding:5px 25px;
+	text-decoration:none;
+	text-shadow:0px 2px 0px #e1e2ed;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #37bf92 5%, #ffffff 100%);
+	background-color:#37bf92;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+h3{
+	color: #49af70;
+	font-size: 300%;
+}
+h4{
+	color: #000;
+	font-size: 200%;
+}
+.myBotton {
+	box-shadow:inset 0px 1px 0px 0px #5275bd;
+	background:linear-gradient(to bottom, #4e6087 5%, #5274ba 100%);
+	background-color:#4e6087;
+	border:1px solid #404b70;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:13px;
+	font-weight:bold;
+	font-style:italic;
+	padding:6px 12px;
+	text-decoration:none;
+}
+.myBotton:hover {
+	background:linear-gradient(to bottom, #5274ba 5%, #4e6087 100%);
+	background-color:#5274ba;
+}
+.myBotton:active {
+	position:relative;
+	top:1px;
+}
