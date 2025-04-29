@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(46, 70, 177);
+}
+h1{
+    color: rgb(111, 25, 198);
+}
+p{
+    color: rgb(218, 32, 196);
+}
+.texto{
+    width: 100%;
+    background-color: rgb(114, 158, 224);
+    text-align: center;
+}
+
+img{
+    width: 70%;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+.foto{
+    width:40%;
+    display: inline-block;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+.myBotton:hover {
+	background:linear-gradient(to bottom, #5274ba 5%, #4e6087 100%);
+	background-color:#5274ba;
+}
+.myBotton:active {
+	position:relative;
+	top:1px;
+}
+.myButton {
+	box-shadow: 3px 4px 0px 0px #1564ad;
+	background:linear-gradient(to bottom, #79bbff 5%, #378de5 100%);
+	background-color:#79bbff;
+	border-radius:5px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Georgia;
+	font-size:17px;
+	font-weight:bold;
+	padding:12px 31px;
+	text-decoration:none;
+	text-shadow:4px -2px 0px #528ecc;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #378de5 5%, #79bbff 100%);
+	background-color:#378de5;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
