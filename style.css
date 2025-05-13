@@ -1,3 +1,8 @@
+@font-face{
+	font-family: "fuenteLinda";
+	src: url("fonts/DynaPuff-VariableFont_wdth\,wght.ttf");
+}
+
 body{
     background-color: rgb(3, 41, 60);
 }
