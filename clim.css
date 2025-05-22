@@ -84,3 +84,15 @@ h4{
 	position:relative;
 	top:1px;
 }
+#listanav a{
+	text-decoration:none;
+	color: darkorange;
+	font-size: 20px;
+}
+#listanav a:hover{
+	color: black;
+}
+#listanav li{
+	display: inline-block;
+	padding: 5px;
+}
