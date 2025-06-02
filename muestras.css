@@ -1,10 +1,38 @@
-table th{
-	background-color: #45f1e0;
-	border: 5px #23b3df;
-	border-style: double;
+body{
+	background-color: #1e4c2a;
 }
-table td{
-	background-color: #22e1be;
-	border: 5px #103aac;
+h1{
+	color: #327dc4;
+}
+p{
+	color: #4bb020;
+}
+.direccion th{
+	background-color: #39857e;
 	border-style: double;
+	justify-content: center;
+	flex-direction: center;
+	grid-column-start: 5w;
+	grid-template-columns:1fr 2fr 1fr;
+	padding: 10px;
+}
+.direccion td{
+	background-color: #324fe0;
+	border-style: double;
+	justify-content: center;
+	padding: 10px;
+}
+.Estudiantes th{
+	background-color: #46308d;
+	border: #013339;
+	border-style: double;
+	justify-content: center;
+	padding: 10px;
+}
+.Estudiantes td{
+	background-color: #573592;
+	border: #053b3e;
+	border-style: double;
+	justify-content: center;
+	padding: 10px;
 }
