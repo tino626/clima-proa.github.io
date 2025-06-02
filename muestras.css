@@ -15,12 +15,14 @@ p{
 	grid-column-start: 5w;
 	grid-template-columns:1fr 2fr 1fr;
 	padding: 10px;
+
 }
 .direccion td{
 	background-color: #324fe0;
 	border-style: double;
 	justify-content: center;
 	padding: 10px;
+
 }
 .Estudiantes th{
 	background-color: #46308d;
@@ -28,6 +30,7 @@ p{
 	border-style: double;
 	justify-content: center;
 	padding: 10px;
+
 }
 .Estudiantes td{
 	background-color: #573592;
@@ -35,4 +38,5 @@ p{
 	border-style: double;
 	justify-content: center;
 	padding: 10px;
+
 }
