@@ -7,6 +7,12 @@ h1{
 p{
 	color: #000000;
 }
+.grupo{
+    display: grid;
+    gap: 10px;
+    padding: 10px;
+    text-align: center;
+}
 .direccion th{
 	background-color: #4da59d;
 	border-style: double;
