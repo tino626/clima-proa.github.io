@@ -1,14 +1,14 @@
 body{
-	background-color: #1e4c2a;
+	background-color: #7faa84;
 }
 h1{
-	color: #327dc4;
+	color: #6e25a6;
 }
 p{
-	color: #4bb020;
+	color: #000000;
 }
 .direccion th{
-	background-color: #39857e;
+	background-color: #4da59d;
 	border-style: double;
 	justify-content: center;
 	flex-direction: center;
@@ -18,22 +18,22 @@ p{
 
 }
 .direccion td{
-	background-color: #324fe0;
+	background-color: #32d7e0b1;
 	border-style: double;
 	justify-content: center;
 	padding: 10px;
 
 }
 .Estudiantes th{
-	background-color: #46308d;
-	border: #013339;
+	background-color: #945f5f;
+	border: #449da7;
 	border-style: double;
 	justify-content: center;
 	padding: 10px;
 
 }
 .Estudiantes td{
-	background-color: #573592;
+	background-color: #b28c41;
 	border: #053b3e;
 	border-style: double;
 	justify-content: center;
