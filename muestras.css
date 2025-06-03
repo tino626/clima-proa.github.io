@@ -40,3 +40,26 @@ p{
 	padding: 10px;
 
 }
+.myButton {
+	box-shadow: 3px 4px 0px 0px #3a8ba6;
+	background:linear-gradient(to bottom, #c9c9c9 5%, #ffffff 100%);
+	background-color:#c9c9c9;
+	border-radius:15px;
+	border:1px solid #e6e6e6;
+	display:inline-block;
+	cursor:pointer;
+	color:#81c1d1;
+	font-family:Arial;
+	font-size:17px;
+	padding:7px 25px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #000000;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #ffffff 5%, #c9c9c9 100%);
+	background-color:#ffffff;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
